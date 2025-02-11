@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "GIT_TIE", "type": "shell", "icon": { "id": "x" },
+			"command": "git add --all && git commit --allow-empty --allow-empty-message --message ''"
+		},
+		{	"dependsOn": "GIT_TIE",
+			"label": "GIT_PLANT", "type": "shell", "icon": { "id": "x" },
+			"command": "git update-ref -d HEAD && git commit --allow-empty-message --message ''"
+		},
+		{	"dependsOn": "GIT_PLANT",
+			"label": "GIT_CHECK", "type": "shell", "icon": { "id": "x" },
+			"command": "git log --graph --all"
+		},
+		{	"dependsOn": "GIT_CHECK",
+			"label": "GIT_PUSH", "type": "shell", "icon": { "id": "git-pull-request" },
+			"command": "git push --force origin master:master"
+		}
+	]
+}
