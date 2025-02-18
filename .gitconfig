@@ -1,0 +1,12 @@
+[user]
+	name = name
+	email = email
+[init]
+	defaultbranch = master
+[core]
+	editor = vim
+[format]
+	pretty = "%C(#ff55aa)%h%C(auto)%d%x20%C(#aa55ff)%s%n"
+[alias]
+	la = log --graph --all
+	ac = !git add --all && git commit --message
