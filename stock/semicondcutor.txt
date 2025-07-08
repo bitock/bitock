@@ -1,0 +1,7 @@
+
+https://www.google.com/finance/quote/MRVL:NASDAQ?window=MAX				Marvell Technology
+https://www.google.com/finance/quote/TER:NASDAQ?window=MAX				Teradyne
+https://www.google.com/finance/quote/MCHP:NASDAQ?window=MAX				microchip technology
+https://www.google.com/finance/quote/INTC:NASDAQ?window=MAX				Intel
+https://www.google.com/finance/quote/AMD:NASDAQ?window=MAX				amd
+https://www.google.com/finance/quote/NVDA:NASDAQ?window=MAX				nvidia
