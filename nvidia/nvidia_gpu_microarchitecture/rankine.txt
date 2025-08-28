@@ -1,0 +1,15 @@
+
+Rankine is the codename for a GPU microarchitecture developed by Nvidia, and released in 2003, as the successor to the Kelvin microarchitecture.
+
+It was named with reference to Macquorn Rankine and used with the GeForce FX series.
+
+
+
+
+
+
+
+
+Architecture			Rankine
+Fabrication process		150 nm, 140 nm, 130 nm
+Release date			2003-2005 2003

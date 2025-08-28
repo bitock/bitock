@@ -1,0 +1,4 @@
+
+Maxwell is the codename for a GPU microarchitecture developed by Nvidia as the successor to the Kepler microarchitecture.
+
+The Maxwell architecture was introduced in later models of the GeForce 700 series and is also used in the GeForce 800M series, GeForce 900 series, and Quadro Mxxx series, as well as some Jetson products.
