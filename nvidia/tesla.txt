@@ -1,0 +1,14 @@
+
+Nvidia Tesla is the former name for a line of products developed by Nvidia targeted at stream processing or general-purpose graphics processing units (GPGPU), named after pioneering electrical engineer Nikola Tesla.
+
+Its products began using GPUs from the G80 series, and have continued to accompany the release of new chips.
+
+They are programmable using the CUDA or OpenCL APIs.
+
+The Nvidia Tesla product line competed with AMD's Radeon Instinct and Intel Xeon Phi lines of deep learning and GPU cards.
+
+Nvidia retired the Tesla brand in May 2020, reportedly because of potential confusion with the brand of cars.
+
+Its new GPUs are branded Nvidia Data Center GPUs[2] as in the Ampere-based A100 GPU.
+
+Nvidia DGX servers feature Nvidia GPGPUs.

@@ -1,0 +1,7 @@
+Fabrication process	130 nm, 110 nm, 90 nm, 80 nm
+
+Release date	2004
+
+Curie is the codename for a GPU microarchitecture developed by Nvidia, and released in 2004, as the successor to the Rankine microarchitecture.
+
+It was named with reference to the Polish physicist Marie Salomea Skłodowska–Curie and used with the GeForce 6 and 7 series. Curie was followed by Tesla.
