@@ -1,0 +1,11 @@
+
+
+Supermicro H12SSL-i
+
+3200Mhz
+
+Supermicro 4U Active SNK-P0064AP4
+Supermicro 2U Active SNK-P0063AP4
+
+7542
+7302P 16C 32T 155W PCie4

@@ -1,0 +1,3 @@
+Blackwell is a graphics processing unit microarchitecture developed by Nvidia as the successor to the Hopper and Ada Lovelace microarchitectures.
+
+Named after statistician and mathematician David Blackwell, the name of the Blackwell architecture was leaked in 2022 with the B40 and B100 accelerators being confirmed in October 2023 with an official Nvidia roadmap shown during an investors presentation.[z
