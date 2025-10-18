@@ -1,0 +1,12 @@
+
+In November 2022, AMD launched the SP5 socket alongside its Epyc 9004 series of processors, codenamed Genoa. The large physical socket and thermal footprint excluded SP5 from certain edge applications.
+
+
+
+Supermicro H13SSL-NT R2.0
+
+4800Mhz
+
+Supermicro 4U Active SNK-P0084AP4
+Supermicro 2U Active SNK-P0083AP4
+Supermicro 2U Passive SNK-P0083P

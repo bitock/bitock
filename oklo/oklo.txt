@@ -1,0 +1,18 @@
+
+Oklo's approach to Small Modular Reactors (SMRs) centers on building, owning, and operating their own liquid-metal-cooled, fast reactors (using sodium as a coolant) which can use spent nuclear fuel as a fuel source.
+
+This differs from many competitors and allows Oklo to target diverse customers, including data centers, with a build-own-operate model that focuses on a high-temperature, atmospheric pressure operation for greater scalability and efficiency.
+
+Key Aspects of Oklo's Approach
+
+    Liquid-Metal Fast Reactors (LMFRs):
+    Unlike traditional light-water reactors that primarily use water as a coolant, Oklo's SMRs employ liquid metal (like sodium). This allows for higher operating temperatures at atmospheric pressure, increasing efficiency and reducing complexity.
+
+
+
+
+Inherent Safety:
+Oklo emphasizes the inherent safety features of its fast reactor technology, noting that its designs are self-stabilizing, self-controlling, and can operate safely using natural forces for cooling, according to Oklo Inc..
+
+Scalability:
+The reactors are offered in a phased approach, with designs ranging from 15MW to 75MW, allowing for flexibility and phased deployment.

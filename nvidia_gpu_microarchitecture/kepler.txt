@@ -1,0 +1,14 @@
+
+2012
+
+TSMC
+
+28 nm
+
+Kepler is the codename for a GPU microarchitecture developed by Nvidia, first introduced at retail in April 2012, as the successor to the Fermi microarchitecture.
+
+Kepler was Nvidia's first microarchitecture to focus on energy efficiency.
+
+Most GeForce 600 series, most GeForce 700 series, and some GeForce 800M series GPUs were based on Kepler, all manufactured in 28 nm.
+
+Kepler found use in the GK20A, the GPU component of the Tegra K1 SoC, and in the Quadro Kxxx series, the Quadro NVS 510, and Tesla computing modules.

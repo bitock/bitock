@@ -1,0 +1,15 @@
+
+Celsius is the codename for a GPU microarchitecture developed by Nvidia, and released in 1999 microarchitecture.
+
+It was named with reference to Anders Celsius and used with the GeForce 256 and GeForce 2 series.
+
+
+Release date	1999-2005 1999
+
+
+Architecture	Celsius
+
+Fabrication process	220 nm, 180nm, 150 nm
+
+
+Predecessor	Fahrenheit

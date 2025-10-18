@@ -1,0 +1,6 @@
+
+Pascal is the codename for a GPU microarchitecture developed by Nvidia, as the successor to the Maxwell architecture.
+
+The architecture was first introduced in April 2016 with the release of the Tesla P100 (GP100) on April 5, 2016, and is primarily used in the GeForce 10 series, starting with the GeForce GTX 1080 and GTX 1070 (both using the GP104 GPU), which were released on May 27, 2016, and June 10, 2016, respectively.
+
+Pascal was manufactured using TSMC's 16 nm FinFET process, and later Samsung's 14 nm FinFET process.

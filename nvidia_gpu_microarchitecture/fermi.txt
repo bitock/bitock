@@ -1,0 +1,15 @@
+
+2010
+
+TSMC
+
+40 nm
+28 nm
+
+Fermi is the codename for a graphics processing unit (GPU) microarchitecture developed by Nvidia, first released to retail in April 2010, as the successor to the Tesla microarchitecture.
+
+It was the primary microarchitecture used in the GeForce 400 series and 500 series.
+
+All desktop Fermi GPUs were manufactured in 40nm, mobile Fermi GPUs in 40nm and 28nm[citation needed].
+
+Fermi is the oldest microarchitecture from Nvidia that receives support for Microsoft's rendering API Direct3D 12 feature_level 11.
