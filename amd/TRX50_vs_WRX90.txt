@@ -1,5 +1,9 @@
-### Overview
-The AMD TRX50 and WRX90 are chipsets designed for high-end desktop (HEDT) and workstation platforms, primarily supporting AMD Ryzen Threadripper 7000/9000 Series and Threadripper PRO 7000/9000 WX-Series processors. Both use the sTR5 socket (LGA 4844) and are built for demanding workloads like content creation, AI, and scientific computing. However, they target different segments: TRX50 is more consumer-oriented for HEDT setups with balanced performance and cost, while WRX90 is workstation-focused with greater expandability for professional environments requiring maximum I/O, memory bandwidth, and multi-GPU support.
+
+The AMD TRX50 and WRX90 are chipsets designed for high-end desktop (HEDT) and workstation platforms, primarily supporting AMD Ryzen Threadripper 7000/9000 Series and Threadripper PRO 7000/9000 WX-Series processors.
+
+Both use the sTR5 socket (LGA 4844) and are built for demanding workloads like content creation, AI, and scientific computing.
+
+TRX50 is more consumer-oriented for HEDT setups with balanced performance and cost, while WRX90 is workstation-focused with greater expandability for professional environments requiring maximum I/O, memory bandwidth, and multi-GPU support.
 
 The key distinctions stem from the PRO-series CPUs unlocking more features on WRX90 boards, such as additional memory channels and PCIe lanes. Non-PRO CPUs can technically work on WRX90, but they won't utilize the full capabilities, making TRX50 a better fit for them. Conversely, PRO CPUs on TRX50 are limited to quad-channel memory and fewer lanes.
 
@@ -21,10 +25,15 @@ The key distinctions stem from the PRO-series CPUs unlocking more features on WR
 | **Target Use Case**     | HEDT for creators, gamers, and prosumer workloads; cost-effective with solid multi-GPU support | Enterprise workstations for data science, AI training, rendering; maximizes PRO CPU features like more cores and RAS (Reliability, Availability, Serviceability) |
 | **Pricing (Motherboards)** | Generally $500-900 (e.g., ASRock TRX50 WS around $600) | $900-1500+ (e.g., ASUS Pro WS WRX90E-SAGE SE around $1000+) |
 
-### Performance Implications
-- **Memory Bandwidth**: WRX90's 8-channel setup doubles the bandwidth compared to TRX50's 4-channel, which is crucial for memory-intensive tasks like video editing or simulations. Tests show up to 50-100% gains in bandwidth-heavy apps with octa-channel configs.
-- **Expandability**: WRX90 excels in multi-GPU setups (e.g., 7x PCIe slots for NVIDIA/AMD cards) and high-capacity storage arrays, making it ideal for servers or AI farms. TRX50 handles 3-4 GPUs well but tops out sooner.
-- **Overclocking**: Both support CPU/memory OC, but WRX90 boards often have superior power delivery for sustaining high-core boosts on 96-core+ PRO CPUs.
-- **Compatibility Note**: With the 9000-series launch in 2025, TRX50 gains more lanes (up to 80), closing the gap slightly, but WRX90 remains superior for full PRO utilization.
+
+Memory Bandwidth**: WRX90's 8-channel setup doubles the bandwidth compared to TRX50's 4-channel, which is crucial for memory-intensive tasks like video editing or simulations.
+
+Tests show up to 50-100% gains in bandwidth-heavy apps with octa-channel configs.
+
+WRX90 excels in multi-GPU setups (e.g., 7x PCIe slots for NVIDIA/AMD cards) and high-capacity storage arrays, making it ideal for servers or AI farms.
+
+TRX50 handles 3-4 GPUs well but tops out sooner.
+
+Compatibility Note: With the 9000-series launch in 2025, TRX50 gains more lanes (up to 80), closing the gap slightly, but WRX90 remains superior for full PRO utilization.
 
 If you're building for personal use or lighter pro work, TRX50 offers great value. For heavy enterprise needs, WRX90 is the way to go. Specific board features (e.g., from ASUS, ASRock, GIGABYTE) can vary, so check manufacturer specs for exact I/O.
