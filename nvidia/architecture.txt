@@ -1,0 +1,144 @@
+
+- Celsius is the codename for a GPU microarchitecture developed by Nvidia, and released in 1999 microarchitecture.
+
+It was named with reference to Anders Celsius and used with the GeForce 256 and GeForce 2 series.
+
+Release date	1999-2005 1999
+
+Architecture	Celsius
+
+Fabrication process	220 nm, 180nm, 150 nm
+
+Predecessor	Fahrenheit
+
+- Fahrenheit
+
+- Kelvin is the codename for a GPU microarchitecture developed by Nvidia, and released in 2001, as the successor to the Celsius[1] microarchitecture.
+
+Architecture			Kelvin
+
+Release date			2001-2003 2001
+
+Fabrication process		150 nm
+
+It was named with reference to William Thomson, 1st Baron Kelvin and used with the GeForce 3 and 4 series.
+
+- Rankine is the codename for a GPU microarchitecture developed by Nvidia, and released in 2003, as the successor to the Kelvin microarchitecture.
+
+It was named with reference to Macquorn Rankine and used with the GeForce FX series.
+
+Architecture			Rankine
+Fabrication process		150 nm, 140 nm, 130 nm
+Release date			2003-2005 2003
+
+- Curie is the codename for a GPU microarchitecture developed by Nvidia, and released in 2004, as the successor to the Rankine microarchitecture.
+
+Fabrication process	130 nm, 110 nm, 90 nm, 80 nm
+
+Release date	2004
+
+It was named with reference to the Polish physicist Marie Salomea Skłodowska–Curie and used with the GeForce 6 and 7 series.
+
+Curie was followed by Tesla.
+
+
+
+
+
+- Tesla is the codename for a GPU microarchitecture developed by Nvidia, and released in 2006, as the successor to Curie microarchitecture.
+
+November 2006
+
+Fabrication process
+90 nm, 80 nm, 65 nm, 55 nm, and 40 nm
+
+It was named after the pioneering electrical engineer Nikola Tesla.
+
+As Nvidia's first microarchitecture to implement unified shaders, it was used with GeForce 8 series, GeForce 9 series, GeForce 100 series, GeForce 200 series, and GeForce 300 series of GPUs, collectively manufactured in 90 nm, 80 nm, 65 nm, 55 nm, and 40 nm.
+
+It was also in the GeForce 405 and in the Quadro FX, Quadro x000, Quadro NVS series, and Nvidia Tesla computing modules.
+
+
+
+
+
+- Fermi is the codename for a graphics processing unit (GPU) microarchitecture developed by Nvidia, first released to retail in April 2010, as the successor to the Tesla microarchitecture.
+
+It was the primary microarchitecture used in the GeForce 400 series and 500 series.
+
+All desktop Fermi GPUs were manufactured in 40nm, mobile Fermi GPUs in 40nm and 28nm[citation needed].
+
+Fermi is the oldest microarchitecture from Nvidia that receives support for Microsoft's rendering API Direct3D 12 feature_level 11.
+2010
+
+TSMC
+
+40 nm
+28 nm
+
+
+
+- Kepler is the codename for a GPU microarchitecture developed by Nvidia, first introduced at retail in April 2012, as the successor to the Fermi microarchitecture.
+
+2012
+
+TSMC
+
+28 nm
+
+Kepler was Nvidia's first microarchitecture to focus on energy efficiency.
+
+Most GeForce 600 series, most GeForce 700 series, and some GeForce 800M series GPUs were based on Kepler, all manufactured in 28 nm.
+
+Kepler found use in the GK20A, the GPU component of the Tegra K1 SoC, and in the Quadro Kxxx series, the Quadro NVS 510, and Tesla computing modules.
+
+
+- Maxwell is the codename for a GPU microarchitecture developed by Nvidia as the successor to the Kepler microarchitecture.
+
+The Maxwell architecture was introduced in later models of the GeForce 700 series and is also used in the GeForce 800M series, GeForce 900 series, and Quadro Mxxx series, as well as some Jetson products.
+
+- Turing & Volta are the codename for a graphics processing unit (GPU) microarchitecture developed by Nvidia.
+
+It is named after the prominent mathematician and computer scientist Alan Turing.
+
+Volta is the codename, but not the trademark, for a GPU microarchitecture developed by Nvidia, succeeding Pascal.
+
+It was first announced on a roadmap in March 2013,[2] although the first product was not announced until May 2017.
+
+The architecture is named after 18th–19th century Italian chemist and physicist Alessandro Volta.
+
+
+
+
+
+- Pascal is the codename for a GPU microarchitecture developed by Nvidia, as the successor to the Maxwell architecture.
+
+The architecture was first introduced in April 2016 with the release of the Tesla P100 (GP100) on April 5, 2016, and is primarily used in the GeForce 10 series, starting with the GeForce GTX 1080 and GTX 1070 (both using the GP104 GPU), which were released on May 27, 2016, and June 10, 2016, respectively.
+
+Pascal was manufactured using TSMC's 16 nm FinFET process, and later Samsung's 14 nm FinFET process.
+
+
+
+
+
+- Ampere
+
+
+
+
+
+- Hopper & Ada Lovelace
+
+
+
+
+
+- Blackwell is a graphics processing unit microarchitecture developed by Nvidia as the successor to the Hopper and Ada Lovelace microarchitectures.
+
+Named after statistician and mathematician David Blackwell, the name of the Blackwell architecture was leaked in 2022 with the B40 and B100 accelerators being confirmed in October 2023 with an official Nvidia roadmap shown during an investors presentation.
+
+
+
+
+
+- Rubin
