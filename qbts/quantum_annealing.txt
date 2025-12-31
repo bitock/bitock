@@ -1,0 +1,23 @@
+**Quantum annealing** is a computational method used to solve complex optimization problems by leveraging quantum mechanics. It’s designed to find the global minimum (optimal solution) of a problem’s energy landscape, particularly for combinatorial optimization tasks where classical computers struggle due to vast search spaces.
+
+### How It Works
+- **Principle**: Quantum annealing mimics classical annealing, where a material is heated and slowly cooled to settle into its lowest-energy state. In quantum annealing, a system of quantum bits (qubits) starts in a superposition of all possible states, governed by a problem-specific energy function (Hamiltonian).
+- **Process**:
+  1. The problem is encoded as an energy landscape, where the lowest point represents the optimal solution.
+  2. Qubits, typically superconducting loops, are initialized in a quantum superposition, allowing exploration of multiple solutions simultaneously.
+  3. The system evolves under quantum effects like **tunneling**, which lets it "tunnel" through energy barriers to escape local minima, unlike classical methods that might get stuck.
+  4. Gradually, the system is guided toward the ground state (lowest energy) via a controlled annealing schedule, yielding the optimal or near-optimal solution.
+- **Hardware**: D-Wave’s quantum annealers use superconducting flux qubits, cooled to near absolute zero (e.g., 15 millikelvin) to maintain quantum coherence.
+
+### Key Features
+- **Specialization**: Best suited for optimization, sampling, and machine learning tasks, such as scheduling, routing, or molecular design. Unlike gate-model quantum computers, it’s not universal but excels in specific domains.
+- **Advantages**:
+  - Scales to thousands of qubits (e.g., D-Wave’s Advantage2 has 4,400+ qubits).
+  - Requires less error correction than gate-model systems, enabling practical use today.
+  - Hybrid approaches combine quantum annealing with classical computing for enterprise-scale problems.
+- **Limitations**: Limited to problems that can be mapped to an energy minimization framework (e.g., Ising or QUBO models). It’s not ideal for general-purpose computing like gate-model systems aim to be.
+
+### Real-World Example
+In 2025, D-Wave’s Advantage2 prototype solved a magnetic materials simulation in minutes, a task estimated to take a classical supercomputer (Frontier) nearly one million years. This demonstrated quantum annealing’s ability to deliver practical speedups for real-world problems.
+
+In short, quantum annealing is a powerful, specialized quantum computing approach that uses quantum effects to efficiently solve optimization problems, making it a practical tool for industries like logistics, finance, and materials science.

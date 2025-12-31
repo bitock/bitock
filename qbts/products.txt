@@ -1,0 +1,11 @@
+### Key Products and Services
+D-Wave offers an end-to-end ecosystem, blending hardware, software, and cloud access to lower barriers to adoption.
+
+| Product/Service | Description | Key Features |
+|-----------------|-------------|--------------|
+| **Advantage2 System** | Flagship annealing quantum computer with 4,400+ qubits, 20-way connectivity, 40% higher energy scale, and doubled coherence time compared to prior generations. | Energy-efficient; solves simulations in minutes that classical GPUs would take eons; available on-premises or via cloud. Prototype hit 7,000+ qubits in 2025 testing. |
+| **Leap Quantum Cloud Service** | Real-time access to D-Wave's quantum hardware and hybrid solvers. | Production-grade security; supports enterprise-scale problems; users have run over 200 million problems to date. |
+| **Ocean Developer Tools** | Open-source software suite for building quantum applications. | Includes SDKs for Python, C++, and more; enables hybrid quantum-classical workflows. |
+| **D-Wave Launch Program** | Phased consulting service for quantum adoption. | From problem identification to production deployment, including training and ROI-focused pilots. |
+
+These tools emphasize "hybrid" computing, where quantum annealing handles the hardest subproblems while classical algorithms manage the rest, making solutions practical for non-experts.

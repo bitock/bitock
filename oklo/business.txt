@@ -1,0 +1,5 @@
+Build-Own-Operate (BOO) Model:
+
+Oklo acts as the developer, constructor, owner, and operator of the SMRs, rather than simply selling reactor designs.
+
+This model is aimed at capturing higher margins and streamlining regulatory processes by working directly with customers.

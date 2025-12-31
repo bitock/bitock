@@ -1,0 +1,18 @@
+
+Socket SP6 was created as a smaller variant of socket SP5 with fewer pins and less memory support
+
+reducing the footprint from 72×75.4 mm to 58.5×75.4 mm, identical to that of SP3.
+
+The SP6 platform comes in at a lower cost than the SP5 platform's Genoa and Bergamo server processors.
+
+Socket SP6 serves segments of the server market where performance is not a priority, but cost, value, small footprint, and low power consumption / heat dissipation are.
+
+Examples of this are infrastructure computing and edge computing.
+
+Currently, it only supports Epyc 8004 processors, codenamed "Siena".
+
+It supports processor TDPs up to 225 W.
+
+On October 19, 2023, AMD announced Threadripper 7000 high-end desktop and workstation processors, utilizing the sTR5 socket, which is physically identical to the SP6 socket, but not electrically compatible.
+
+Threadripper 7000 processors were launched on November 21.

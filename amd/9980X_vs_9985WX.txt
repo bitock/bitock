@@ -1,0 +1,54 @@
+
+AMD Ryzen Threadripper 9980X (a high-end desktop CPU) and the AMD Ryzen Threadripper PRO 9985WX (its workstation-oriented counterpart), based on recent releases in 2025.
+
+Both are part of AMD's Zen 5-based Threadripper 9000 series, featuring 64 cores and designed for extreme multitasking, content creation, and compute-heavy workloads.
+
+The main distinctions lie in memory support, target audience, pricing, and slight performance edges for the PRO model in multi-threaded scenarios.
+
+The non-PRO 9980X offers better value for general users, while the PRO 9985WX is optimized for professional environments with enhanced memory capabilities and server-grade features.
+
+| **Cores / Threads**     | 64 / 128                    | 64 / 128                         |
+| **Base Clock**          | 3.2 GHz                     | 3.2 GHz                          |
+| **Boost Clock**         | 5.4 GHz                     | 5.4 GHz                          |
+| **L1 Cache**            | 5,120 KB                    | 4,096 KB                         |
+| **L2 Cache**            | 64 MB                       | 64 MB                            |
+| **L3 Cache**            | 256 MB                      | 256 MB                           |
+| **TDP**                 | 350W                        | 350W                             |
+| **Socket**              | sTR5                        | sTR5                             |
+| **Memory Type**         | DDR5-6400                   | DDR5-6400                        |
+| **Memory Channels**     | 4                           | 8                                |
+| **Max Memory**          | 1,000 GB                    | 2,000 GB                         |
+| **ECC Support**         | Yes                         | Yes                              |
+| **Integrated Graphics** | No                          | No                               |
+| **Unlocked Multiplier** | Yes                         | Yes                              |
+| **Release Date**        | May 20, 2025                | May 20, 2025                     |
+| **MSRP (Approximate)**  | $4,999                      | $7,999                           |
+| **Target Use**          | Desktop / Enthusiast        | Desktop / Server / Workstation   |
+
+Benchmarks show the two CPUs are very close, with the PRO model holding a slight edge (around 5-8% faster in multi-threaded tests), likely due to better binning for sustained workloads. Single-thread performance is nearly identical.
+
+Single-Thread Rating**: 4,499 (9980X) vs. 4,511 (9985WX) — essentially tied.
+
+Multi-Thread Rating (CPU Mark)**: 145,694 (9980X) vs. 153,774 (9985WX) — the 9985WX is about 5% faster.
+
+Another dataset reports 153,564 (9980X) vs. 156,305 (9985WX).
+
+In real-world scenarios:
+
+Both excel in multi-core tasks like video rendering, 3D modeling, and simulations.
+
+The 9985WX's 8 memory channels provide higher bandwidth (up to 380 GB/s vs. lower on the 9980X), making it better for memory-intensive applications like large datasets or virtualization.
+
+Reviews note the 9980X as a strong gaming/creator option with high clocks, while the PRO is ideal for engineering or servers due to its expanded memory and stability features.
+
+The 9980X scores higher (118% better per some metrics) due to its lower price and similar performance for most users.
+
+CPU value ratings are 29.1 (9980X) vs. 19.2 (9985WX).
+
+Choose the 9980X if you're building a high-end desktop for gaming, content creation, or general productivity.
+
+9980X offers excellent performance without the premium cost.
+
+Opt for the **9985WX** if you need workstation-grade features like massive RAM support (up to 2TB), more PCIe lanes for expansions, or enterprise reliability for tasks like AI training or scientific computing.
+
+Both require robust cooling and a compatible motherboard; power consumption is high, so factor in electricity costs (~$64/year at full load).

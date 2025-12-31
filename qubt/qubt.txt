@@ -1,0 +1,17 @@
+**Quantum Computing Inc. (NASDAQ: QUBT)** is an integrated photonics and quantum optics technology company focused on developing and providing accessible, affordable quantum machines and related hardware that operate at room temperature with low power consumption. These solutions target commercial and government markets, emphasizing practical applications in quantum computing, sensing, imaging, and cybersecurity.
+
+### Key Products and Technologies
+
+- **Entropy Quantum Computer**: A full-stack quantum system that simplifies development by using application programming interfaces (APIs) for creating and executing quantum-ready applications, bypassing complex software kits.
+
+- **Reservoir Computer**: An edge device with reprogrammable integrated circuits optimized for recurrent neural network applications, enabling efficient AI processing.
+
+- **LIDAR Systems**: Advanced imaging technology that penetrates dense fog, snow, ice, or water for high-fidelity remote sensing at long distances.
+
+- **Quantum Photonic Vibrometer**: A tool for non-contact vibration detection, sensing, and structural inspection.
+
+- **Quantum Networks and Authentication Products**: Secure communication solutions leveraging quantum principles for data protection.
+
+- **Thin-Film Lithium Niobate (TFLN) Chips**: Core components for optical devices like electro-optical modulators, frequency converters, and micro-ring resonators, fabricated in their U.S.-based foundry.
+
+The company's photonics-based approach uses light particles (photons) for high-bandwidth, energy-efficient computing, distinguishing it from traditional cryogenic quantum systems. As of mid-2025, QUBT's revenue remains modest (around $385,000 in the prior year), primarily from government and academic clients, with ongoing expansion into broader markets.

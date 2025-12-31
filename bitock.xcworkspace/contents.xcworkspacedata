@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:amd">
+   </FileRef>
+   <FileRef
+      location = "group:config">
+   </FileRef>
+   <FileRef
+      location = "group:economy">
+   </FileRef>
+   <FileRef
+      location = "group:nvidia">
+   </FileRef>
+   <FileRef
+      location = "group:oklo">
+   </FileRef>
+   <FileRef
+      location = "group:qbts">
+   </FileRef>
+   <FileRef
+      location = "group:qubt">
+   </FileRef>
+   <FileRef
+      location = "group:smr">
+   </FileRef>
+   <FileRef
+      location = "group:www.amd.com">
+   </FileRef>
+   <FileRef
+      location = "group:www.asrock.com">
+   </FileRef>
+   <FileRef
+      location = "group:www.supermicro.com">
+   </FileRef>
+   <FileRef
+      location = "group:makefile">
+   </FileRef>
+   <FileRef
+      location = "group:readme.md">
+   </FileRef>
+</Workspace>
