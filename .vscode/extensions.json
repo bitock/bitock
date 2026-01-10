@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+
+	],
+	"unwantedRecommendations": [
+		"ms-vscode.makefile-tools",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"davidanson.vscode-markdownlint",
+		"vscodevim.vim"
+	]
+}
