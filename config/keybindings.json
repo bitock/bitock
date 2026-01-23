@@ -1,0 +1,28 @@
+[
+	{ "key": "ctrl+`", "command": "openInIntegratedTerminal" },
+
+	{ "key": "ctrl+meta+n", "command": "explorer.newFile" },
+	{ "key": "alt+meta+n", "command": "explorer.newFolder" },
+
+	{ "key": "ctrl+shift+w q", "command": "workbench.action.closeEditorsToTheLeft" },
+	{ "key": "ctrl+shift+w w", "command": "workbench.action.closeOtherEditors" },
+	{ "key": "ctrl+shift+w e", "command": "workbench.action.closeEditorsToTheRight" },
+	{ "key": "ctrl+shift+w t", "command": "workbench.action.tasks.runTask" },
+	{ "key": "ctrl+shift+w b", "command": "workbench.action.toggleActivityBarVisibility" },
+	{ "key": "ctrl+shift+w s", "command": "workbench.action.toggleStatusbarVisibility" },
+	{ "key": "ctrl+shift+w c", "command": "workbench.files.action.collapseExplorerFolders"},
+	{ "key": "ctrl+shift+w r", "command": "workbench.files.action.refreshFilesExplorer" },
+
+	{ "key": "ctrl+shift+r", "command": "workbench.view.remote" },
+	{ "key": "ctrl+shift+e", "command": "workbench.view.explorer" },
+	{ "key": "ctrl+shift+f", "command": "workbench.view.search" },
+	{ "key": "ctrl+shift+d", "command": "workbench.view.debug" },
+	{ "key": "ctrl+shift+x", "command": "workbench.view.extensions" },
+	{ "key": "ctrl+shift+g", "command": "workbench.view.scm" },
+
+	{ "key": "alt+end", "command": "notebook.execute" },
+	{ "key": "alt+delete", "command": "notebook.clearAllCellsOutputs" },
+
+	{ "key": "alt+home", "command": "jupyter.restartkernel" },
+	{ "key": "alt+insert", "command": "jupyter.restartkernelandrunallcells" }
+]

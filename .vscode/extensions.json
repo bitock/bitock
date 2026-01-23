@@ -1,0 +1,16 @@
+{
+	"recommendations": [ ],
+	"unwantedRecommendations": [
+		"ms-vscode.makefile-tools",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"davidanson.vscode-markdownlint",
+		"vscodevim.vim",
+		"ms-azuretools.vscode-containers",
+		"christian-kohler.npm-intellisense",
+		"firefox-devtools.vscode-firefox-debug",
+		"ms-edgedevtools.vscode-edge-devtools",
+		"dbaeumer.vscode-eslint",
+		"github.copilot"
+	]
+}
